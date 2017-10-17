@@ -1,0 +1,4 @@
+jira:
+  host: localhost
+  protocol: http
+  port:8085
